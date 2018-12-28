@@ -75,3 +75,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Own ignores
+
+# Graphics assets
+Content/GT_SELECT18/*
+Content/GP_Infantry/*
