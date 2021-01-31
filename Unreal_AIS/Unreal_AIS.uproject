@@ -3,5 +3,12 @@
 	"EngineAssociation": "4.26",
 	"Category": "",
 	"Description": "",
-	"Enterprise": true
+	"Enterprise": true,
+	"Modules": [
+		{
+			"Name": "Unreal_AIS",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
 }
